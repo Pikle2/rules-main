@@ -1,9 +1,9 @@
-module github.com/Pikle2/rules-main/rules
+module github.com/Pikle2/rules-main/
 
 go 1.24.1
 
 require (
-	github.com/BattlesnakeOfficial/rules v1.2.3
+	github.com/Pikle2/rules-main/rules v1.2.3
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3
 	github.com/mitchellh/go-homedir v1.1.0
