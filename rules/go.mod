@@ -1,4 +1,4 @@
-module github.com/Pikle2/rules
+module github.com/Pikle2/rules-main/rules
 
 go 1.24.1
 
